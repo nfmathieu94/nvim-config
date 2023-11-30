@@ -1,0 +1,34 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///bigdata/wesslerlab/shared/Rice/Nathan": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.machineId": "aebc46d7c9885fd7b71c3fa998c640e02dd8bb3a9005ecbff2480d30a8bcbeab",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///bigdata/wesslerlab/shared/Rice/Nathan"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///bigdata/wesslerlab/shared/Rice/Nathan",
+            "backupPath": "/rhome/nmath020/.config/Code/Backups/cfe0cb918671740bd05e0c9b88144dc9",
+            "uiState": {
+                "mode": 1,
+                "x": 454,
+                "y": 183,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    }
+}
