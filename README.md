@@ -15,12 +15,13 @@ Create new `.config` file
 `git clone git@github.com:nfmathieu94/nvim-config.git .config`
 
 ## Downloading Plugins
+
 Open neovim:
 `nvim`
 Download Plugins while in Neovim:
 `:PlugInstall`
 
+## Modifying Config
 
-# Modifying Config 
 modify `.config/nvim/init.vim` for plugins and configuration
 
